@@ -1,0 +1,8 @@
+[submodule "SubModule1"]
+	path = SubModule1
+	url = https://github.com/moberoi77/SubModule1.git
+	branch = develop
+[submodule "SubModule2"]
+	path = SubModule2
+	url = https://github.com/moberoi77/SubModule2.git
+	branch = develop
